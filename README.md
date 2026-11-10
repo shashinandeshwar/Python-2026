@@ -21,6 +21,10 @@ As a beginner in programming, I created this repository to:
 
 ---
 
+## 📸 Repository Preview
+
+![Python-2026 Repository Screenshot](Screenshot%20(18).png)
+
 ## 🧠 What I Am Learning
 
 My Python learning journey will cover the following topics:
