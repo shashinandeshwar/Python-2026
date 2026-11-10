@@ -1,0 +1,28 @@
+#simple calculator
+print("SIMPLE CALCULATOR")
+print("1. Addition")
+print("2. Substraction")
+print("3. Multiplication")
+print("4. Division")
+print("5. Exponent")
+
+num1=int(input("Your first number is: "))
+num2=int(input("Your second number is: "))
+choice=int(input("Your choice is: "))
+
+
+if choice==1:
+  sum=num1+num2
+  print("Addition of the numbers is: ", sum)
+elif choice==2:
+  sub=num1-num2
+  print("Substraction of the numbers is: ", sub)
+elif choice==3:
+  multi=num1*num2
+  print("Multiplication of the numberes is: ", multi)
+elif choice==4:
+  div=num1/num2
+  print("Division of the numbers is: ", div)
+elif choice==5:
+  expo=num1**num2
+  print("The exponent of the number is: ", expo)
